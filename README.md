@@ -115,13 +115,13 @@ Open settings.json and fill in these fields:
 }
 
 "server": {
-  "ip": "your.server.ip",
-  "port": 25565
+  "ip": LILYVILLEYSMP2.aternos.me
+  "port": 11743
 }
 
 "utils": {
   "auto-auth": {
-    "enabled": true,
+    "enabled": YTGAMER,
     "password": "YourAuthPassword"
   }
 }
