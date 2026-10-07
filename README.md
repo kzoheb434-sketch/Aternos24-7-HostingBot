@@ -3,9 +3,25 @@
 A Minecraft bot that joins your server and keeps it alive around the clock.
 It reconnects automatically if kicked or if the server restarts, and can be
 hosted for free on several platforms.
+"bot-account": {
+  "username": "YourBotUsername"
+}
 
+"server": {
+  "ip LILYVILLEYSMP2.aternos.me
+  "port": 11743
+}
+
+"utils": {
+  "auto-auth": {
+    "enabled": true,
+    "password": "YourAuthPassword"
+  }
+}
 ---
-
+"chat": {
+  "tpWhitelist": ["YourMinecraftUsername"]
+}
 ## How It Works
 
 The bot uses Mineflayer to join your Minecraft server as a fake player.
